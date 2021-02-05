@@ -1,0 +1,7 @@
+server:
+  port: 9090
+  servlet:
+    context-path: /product-service
+spring:
+  application:
+    name: Product Microservice
